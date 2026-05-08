@@ -3,6 +3,11 @@
 **ML Engineer** — building production RAG systems, LLM applications, and NLP pipelines.  
 Based in Jhajjar, Haryana, India · Available immediately · Open to remote and on-site roles.
 
+---
+
+## Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parmodk2310&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -85,6 +90,9 @@ Strong in: Dynamic Programming · Binary Search · Hash Table · Array · String
 
 Currently contributing to **CHAOSS UN-SDG Classifier Tool** (DMP 2026 — C4GT)  
 NLP-based tool that classifies open source projects by UN Sustainable Development Goals.
+
+
+
 
 ---
 
