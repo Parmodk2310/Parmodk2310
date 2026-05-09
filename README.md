@@ -11,7 +11,7 @@
 
 ML Engineer | Financial AI | Predictive Systems | NLP
 
-I'm an ML Engineer with 2+ years of hands-on experience building machine learning systems, predictive analytics pipelines, and AI-powered applications designed for real-world impact.
+I'm an ML Engineer with 1+ years of hands-on experience building machine learning systems, predictive analytics pipelines, and AI-powered applications designed for real-world impact.
 
 My work focuses on developing scalable ML solutions for data-intensive environments — from predictive modeling and NLP systems to production-grade AI pipelines and intelligent retrieval architectures.
 
@@ -40,7 +40,7 @@ I enjoy working on problems involving:
 - retrieval and search architectures
 - large-scale data processing
 
-Over the last two years, I’ve worked on ETL workflows handling 500K+ records, built ML pipelines for classification and forecasting, optimized retrieval systems, and developed AI applications focused on reliability, scalability, and measurable business impact.
+Over the last one years, I’ve worked on ETL workflows handling 500K+ records, built ML pipelines for classification and forecasting, optimized retrieval systems, and developed AI applications focused on reliability, scalability, and measurable business impact.
 
 I’m particularly interested in how machine learning can improve decision-making in high-scale, data-driven industries like finance and investment technology.
 
