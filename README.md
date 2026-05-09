@@ -1,22 +1,15 @@
 
 
-<h1 align="center">Hey 👋, I'm Parmod</h1>
+# 👋 Hi there
 
-<p align="center">
-  ML Engineer | Financial AI | Predictive Systems | NLP Specialist
-  <br/>
-  Building production-grade AI systems that deliver real-world impact
-</p>
+I'm Parmod, a passionate ML Engineer and AI enthusiast. With 1+ years of hands-on experience in machine learning and AI systems, I've had the opportunity to work on production-grade ML pipelines, predictive analytics systems, NLP applications, and intelligent retrieval architectures across different real-world domains.
 
----
-
-## 🧠 About Me
-
-I'm an **ML Engineer with 1+ years of hands-on experience** building machine learning systems, predictive analytics pipelines, and AI-powered applications designed for real-world impact. My work bridges the gap between cutting-edge research and production-ready solutions.
+My work focuses on building scalable and reliable AI solutions that combine machine learning, data engineering, and backend systems to solve practical problems and deliver measurable impact.
 
 > *"The science of today is the technology of tomorrow."* — Edward Teller
 
----
+
+
 
 # 🚀 Expertise
 
@@ -30,9 +23,6 @@ In addition to my professional work, I also enjoy sharing what I learn through t
 
 Outside of engineering, I regularly solve LeetCode problems, explore system design concepts, and study the intersection of machine learning, quantitative analysis, and scalable software systems. I genuinely enjoy breaking down difficult problems and building systems that are both technically strong and practically useful.
 
-
-
----
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +54,8 @@ Outside of engineering, I regularly solve LeetCode problems, explore system desi
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+
+
 
 ## 📈 Key Metrics & Achievements
 
@@ -79,14 +70,14 @@ Outside of engineering, I regularly solve LeetCode problems, explore system desi
 | **LeetCode** | Problems Solved | 450+ |
 | **GitHub** | Public Repositories | 20+ |
 
----
+
 
 ## 🌱 Currently
 
 **Contributing to [CHAOSS UNSDG Classifier](https://github.com/chaoss/UNSDG-classifier-tool)** — An open-source NLP tool that automatically maps open-source projects to UN Sustainable Development Goals. Building intelligent classification systems that drive social impact.
 
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -97,4 +88,4 @@ Outside of engineering, I regularly solve LeetCode problems, explore system desi
 
 
 
----
+
