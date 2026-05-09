@@ -82,8 +82,8 @@ Outside of engineering, I regularly solve LeetCode problems, explore system desi
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parmodk2310)
-[![LeetCode](https://img.shields.io/badge/LeetCode_·_450+_solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ParmodK2310/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@parmodk)
+[![LeetCode](https://img.shields.io/badge/LeetCode_-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ParmodK2310/)
+[![Medium](https://img.shields.io/badge/Medium_-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@parmodk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parmodk.official@gmail.com)
 
 
