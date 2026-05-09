@@ -16,13 +16,21 @@ I'm an **ML Engineer with 1+ years of hands-on experience** building machine lea
 
 > *"The science of today is the technology of tomorrow."* — Edward Teller
 
-I specialize in:
-- **Machine Learning & Deep Learning** — Classification, regression, time-series forecasting
-- **Financial AI & Predictive Analytics** — Portfolio optimization, fraud detection, anomaly detection
-- **Natural Language Processing** — Sentiment analysis, RAG pipelines, LLM integration
-- **Production AI Systems** — MLOps, experiment tracking, scalable pipelines, containerization
+---
 
-My journey started with classical ML models and evolved into designing **production-grade AI systems** that combine machine learning, data engineering, and intelligent automation.
+# 🚀 Expertise
+
+Passionate about building intelligent and scalable machine learning systems, I specialize in developing predictive models, NLP pipelines, and AI-powered applications that solve real-world problems in data-intensive environments. My work combines machine learning engineering, backend systems, and data-driven decision-making to create solutions that are not only accurate, but production-ready and reliable.
+
+Over the last two years, I’ve worked on production AI pipelines, retrieval systems, ETL workflows handling 500K+ records, and machine learning models focused on classification, forecasting, and intelligent automation. I’m particularly interested in how machine learning and statistical modeling can improve large-scale systems within finance, analytics, and enterprise technology.
+
+In my professional journey, I’ve had the opportunity to work across Generative AI, NLP, predictive analytics, and backend engineering — designing scalable ML workflows, optimizing inference systems, and improving model reliability through evaluation and monitoring. Beyond model development, I enjoy the engineering side of AI: data pipelines, system optimization, retrieval architectures, and building infrastructure that makes machine learning usable in production.
+
+In addition to my professional work, I also enjoy sharing what I learn through technical writing and open-source contributions. I believe writing about technology is one of the best ways to deepen understanding and help others navigate complex concepts more effectively.
+
+Outside of engineering, I regularly solve LeetCode problems, explore system design concepts, and study the intersection of machine learning, quantitative analysis, and scalable software systems. I genuinely enjoy breaking down difficult problems and building systems that are both technically strong and practically useful.
+
+
 
 ---
 
