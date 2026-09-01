@@ -15,7 +15,7 @@ I build end-to-end data products that don't break in production. Previously inte
 |---------|-------------|-------|-------|
 | **User Retention & Experimentation Platform** | 1M+ events, cohort analysis, A/B testing, churn prediction, real-time monitoring | SQL, PostgreSQL, XGBoost, WebSocket, Prometheus, Grafana | [Case Study](https://parmodk2310.vercel.app/projects/retention) · [GitHub](link) · [Live Demo](link) |
 | **ML Incident Remediation & Fairness Governance** | Production model failure simulation: AUC degradation, feature drift, fairness audit, automated retraining | Python, SHAP, Airflow, Great Expectations, PSI | [Case Study](https://parmodk2310.vercel.app/projects/remediation) · [GitHub](https://github.com/Parmodk2310/production-ml-incident-remediation-governance) |
-| **AI-Powered Portfolio Optimizer** | FinBERT sentiment + FAISS RAG + MPT portfolio optimization with risk metrics | FastAPI, FAISS, LangChain, FinBERT, Streamlit, AWS | [Case Study](https://parmodk2310.vercel.app/projects/portfolio) · [GitHub](https://github.com/Parmodk2310/AI-Powered-Portfolio-Optimizer) · [Live Demo](link) |
+| **AI-Powered Portfolio Optimizer** | FinBERT sentiment + FAISS RAG + MPT portfolio optimization with risk metrics | FastAPI, FAISS, LangChain, FinBERT, Streamlit, AWS | [Case Study](https://parmodk2310.vercel.app/projects/portfolio) · [GitHub](https://github.com/Parmodk2310/AI-Powered-Portfolio-Optimizer) · [Live Demo](http://13.207.84.157:8501) |
 | **Real-Time Feature Store** *(in progress)* | Sub-50ms feature serving with point-in-time correctness and drift monitoring | Redis, FastAPI, Pandas, Docker | [GitHub](link) |
 
 ---
