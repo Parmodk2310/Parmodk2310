@@ -110,17 +110,6 @@ Search systems · relevance · distance metrics · query understanding
 
 [Read on Medium →](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parmodk2310&show_icons=true&hide_border=true&rank_icon=github" alt="Parmod's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmodk2310&layout=compact&hide_border=true&langs_count=6" alt="Parmod's top languages" />
-
-</div>
 
 ---
 
@@ -131,7 +120,7 @@ Search systems · relevance · distance metrics · query understanding
 <br>
 
 <a href="https://github.com/Parmodk2310">
-  <img src="https://img.shields.io/github/followers/Parmodk2310?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/Parmodk2310?label=Follow&style=social" alt="GitHub followers" />
 </a>
 
 </div>
