@@ -104,12 +104,10 @@ distributed-system correctness
 
 ## ✍️ Writing
 
-### [How Search Engines Understand and Deliver Results](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)
-
+**[How Search Engines Understand and Deliver Results](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)**  
 Search systems · relevance · distance metrics · query understanding
 
 [Read on Medium →](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)
-
 
 ---
 
@@ -117,10 +115,6 @@ Search systems · relevance · distance metrics · query understanding
 
 ### Build → Break → Measure → Improve → Ship
 
-<br>
-
-<a href="https://github.com/Parmodk2310">
-  <img src="https://img.shields.io/github/followers/Parmodk2310?label=Follow&style=social" alt="GitHub followers" />
-</a>
+<sub>Learning by building systems that can be tested, observed, and improved.</sub>
 
 </div>
