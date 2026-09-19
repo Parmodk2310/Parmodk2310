@@ -116,9 +116,9 @@ Search systems · relevance · distance metrics · query understanding
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parmodk2310&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parmodk2310&show_icons=true&hide_border=true&rank_icon=github" alt="Parmod's GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmodk2310&layout=compact&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmodk2310&layout=compact&hide_border=true&langs_count=6" alt="Parmod's top languages" />
 
 </div>
 
