@@ -1,44 +1,137 @@
-# Parmod Kumar
+<div align="center">
 
-**Product Data Scientist** — ML systems, experimentation, production analytics.
+# Hey, I'm Parmod 👋
 
-I build end-to-end data products that don't break in production. Previously interned at OpenQQuantify, building ML pipelines processing 10K+ daily records.
+### I build ML systems, AI products, data platforms & distributed infrastructure.
 
-📍 Jhajjar, Haryana, India  
-🎯 Targeting: Product Data Scientist @ Amazon, Flipkart, Microsoft, Google, Meta
+`Python` · `Machine Learning` · `MLOps` · `Generative AI` · `Distributed Systems` · `Cloud`
 
----
+<br>
 
-## Featured Projects
+<a href="https://parmodk2310.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/parmodk2310">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@parmod007p">
+  <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-| Project | What It Does | Stack | Links |
-|---------|-------------|-------|-------|
-| **User Retention & Experimentation Platform** | 1M+ events, cohort analysis, A/B testing, churn prediction, real-time monitoring | SQL, PostgreSQL, XGBoost, WebSocket, Prometheus, Grafana | [Case Study](https://parmodk2310.vercel.app/projects/retention) · [GitHub](link) · [Live Demo](link) |
-| **ML Incident Remediation & Fairness Governance** | Production model failure simulation: AUC degradation, feature drift, fairness audit, automated retraining | Python, SHAP, Airflow, Great Expectations, PSI | [Case Study](https://parmodk2310.vercel.app/projects/remediation) · [GitHub](https://github.com/Parmodk2310/production-ml-incident-remediation-governance) |
-| **AI-Powered Portfolio Optimizer** | FinBERT sentiment + FAISS RAG + MPT portfolio optimization with risk metrics | FastAPI, FAISS, LangChain, FinBERT, Streamlit, AWS | [Case Study](https://parmodk2310.vercel.app/projects/portfolio) · [GitHub](https://github.com/Parmodk2310/AI-Powered-Portfolio-Optimizer) · [Live Demo](http://13.207.84.157:8501) |
-| **Real-Time Feature Store** *(in progress)* | Sub-50ms feature serving with point-in-time correctness and drift monitoring | Redis, FastAPI, Pandas, Docker | [GitHub](link) |
-
----
-
-## Writing
-
-- [SQL Window Functions Every Data Scientist Should Know](https://medium.com/@parmodk2310/sql-window-functions) — `Product Analytics` · 8 min
-- [Using PSI to Monitor Model Health in Production](https://medium.com/@parmodk2310/psi-monitoring) — `MLOps` · 10 min
-- [Designing A/B Tests That Actually Work](https://medium.com/@parmodk2310/ab-testing) — `Experimentation` · 12 min
+</div>
 
 ---
 
-## Experience
+## ⚡ What I Build
 
-- **Software Developer Intern — AI/ML** @ OpenQQuantify (Jan 2025 – Jul 2025)
-- **Data Science Intern — ML** @ Innomatics Research Labs (Sep 2024 – Dec 2024)
-- **Data Science Intern** @ Acmegrade Pvt. Ltd. (Jul 2024 – Sep 2024)
+- 🧠 ML systems with governance, evaluation, drift/fairness checks, and safer releases
+- 📊 Data products for analytics, experimentation, retention, and churn
+- 🤖 RAG, LLM integrations, financial NLP, and applied AI workflows
+- ⚙️ Distributed systems focused on reliability, durability, and failure recovery
+- ☁️ Cloud-native delivery with CI/CD, observability, containers, and infrastructure as code
+
+> My main projects are pinned below on this profile.
 
 ---
 
-## Contact
+## 🧪 My Playground
 
-- 📧 parmodk.official@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/parmodk2310)
-- 🌐 [Portfolio](https://parmodk2310.vercel.app)
-- ✍️ [Medium](https://medium.com/@parmodk2310)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 ML Systems
+
+Model evaluation · explainability · drift · fairness · governance · serving
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Apps
+
+RAG · LLM integration · financial NLP · retrieval · multi-agent workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Products
+
+Product analytics · experimentation · PostgreSQL · Redis Streams · monitoring
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Systems & Infra
+
+Distributed systems · CRDTs · observability · Docker · Terraform · Kubernetes
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Building With Lately
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,aws,terraform,kubernetes,git,linux&perline=10" />
+</p>
+
+<p align="center">
+  <code>XGBoost</code> ·
+  <code>SHAP</code> ·
+  <code>FAISS</code> ·
+  <code>LangChain</code> ·
+  <code>Prometheus</code> ·
+  <code>OpenTelemetry</code>
+</p>
+
+---
+
+## 🔭 Currently Exploring
+
+```text
+safer ML releases
+evidence-driven MLOps
+reliable AI infrastructure
+distributed-system correctness
+```
+
+---
+
+## ✍️ Writing
+
+### [How Search Engines Understand and Deliver Results](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)
+
+Search systems · relevance · distance metrics · query understanding
+
+[Read on Medium →](https://medium.com/@parmod007p/how-search-engines-understand-and-deliver-results-6904e7c9b4a3)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parmodk2310&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parmodk2310&layout=compact&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build → Break → Measure → Improve → Ship
+
+<br>
+
+<a href="https://github.com/Parmodk2310">
+  <img src="https://img.shields.io/github/followers/Parmodk2310?label=Follow&style=social" />
+</a>
+
+</div>
