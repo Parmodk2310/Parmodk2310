@@ -8,7 +8,7 @@ My work spans applied AI, ML governance, product analytics, and distributed syst
 
 [Portfolio](https://parmodk2310.vercel.app) ·
 [LinkedIn](https://linkedin.com/in/parmodk2310) ·
-[Technical Writing][(https://medium.com/@parmodk2310)](https://medium.com/@parmodk2310)
+[Technical Writing](https://medium.com/@parmodk2310)
 
 ## Engineering Approach
 
